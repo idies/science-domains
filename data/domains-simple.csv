@@ -1,26 +1,7 @@
-name,children,,
-sciserver,,,
-Engineering,sciserver,,
-Life Sciences,sciserver,,
-Medicine,sciserver,,
-Physical Sciences,sciserver,,
-Social Sciences,sciserver,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+name,children
+sciserver,
+Engineering,sciserver
+Life Sciences,sciserver
+Medicine,sciserver
+Physical Sciences,sciserver
+Social Sciences,sciserver
