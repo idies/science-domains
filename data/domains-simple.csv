@@ -1,7 +1,7 @@
 name,parent
-sciserver,
-Engineering,sciserver
-Life Sciences,sciserver
-Medicine,sciserver
-Physical Sciences,sciserver
-Social Sciences,sciserver
+SciServer,
+Engineering,SciServer
+Life Sciences,SciServer
+Medicine,SciServer
+Physical Sciences,SciServer
+Social Sciences,SciServer
