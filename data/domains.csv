@@ -1,0 +1,69 @@
+name,parent
+Manga,Astronomy
+WFIRST,Astronomy
+Networks,Business Studies
+Eagle,Cosmology
+Indra,Cosmology
+ScaleFree,Cosmology
+Course Material,Education
+Big Data in Turbulence,Fluid Dynamics
+BigWig,Genomics
+UK Bio Bank,Genomics
+MEDE,Materials Science
+PARADIM,Materials Science
+Rough Surfaces,Materials Science
+Precision Medicine,Medicine
+U01,Medicine
+China Migration,Social Sciences
+NAOJ,Astronomy
+SDSS,Astronomy
+SkyQuery,Astronomy
+Streaming Clustering,Computer Science
+Millennium,Cosmology
+"Observing Virtual
+Universes",Cosmology
+Gluseen,Earth Sciences
+Ocean Ciculation,Earth Sciences
+AS.171.205,Education
+AS.171.324,Education
+"Machine Learning 
+study group",Education
+Turbulence DB,Fluid Dynamics
+Recount,Genomics
+TSE,Genomics
+FragData,Materials Science
+eROSITA - GSFC,Astronomy
+eROSITA - MPE,Astronomy
+LSST,Astronomy
+FinTechAI,Business Studies
+Medical Tweets,Business Studies
+TBD,Business Studies
+TBD2,Business Studies
+Virgo Data Center,Cosmology
+Tornado Prediction,Earth Sciences
+Astroinformatics school,Education
+Chesapeake Bay,Environmental Science
+Neutron Scattering,Materials Science
+CAAPA,Medicine
+"Cancer Imm. 
+Therapy",Medicine
+Kennedy Krieger,Medicine
+Neural Spike Sorting,Neuroscience
+Baltimore City Planning,Social Sciences
+Computer Science,Engineering
+Fluid Dynamics,Engineering
+Materials Science,Engineering
+Environmental Science,Life Sciences
+Genomics,Life Sciences
+Neuroscience,Life Sciences
+Astronomy,Physical Sciences
+Cosmology,Physical Sciences
+Earth Sciences,Physical Sciences
+Engineering,SciServer
+Life Sciences,SciServer
+Medicine,SciServer
+Physical Sciences,SciServer
+Social Sciences,SciServer
+Business Studies,Social Sciences
+Education,Social Sciences
+SciServer,

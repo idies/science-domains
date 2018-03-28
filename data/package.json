@@ -1,0 +1,10 @@
+{
+  "name": "@idies/data",
+  "version": "1.0.0",
+  "description": "Data about Science Domain Projects at IDIES",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bonnie Souter <bsouter@jhu.edu>",
+  "license": "ISC"
+}

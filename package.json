@@ -1,0 +1,32 @@
+{
+  "name": "science-domains",
+  "version": "1.0.0",
+  "description": "Create dynamic plot of sciserver science domains and projects",
+  "main": "index.js",
+  "dependencies": {
+    "@observablehq/flare": "0.0.0",
+    "d3": "^5.0.0",
+    "d3-dsv": "^1.0.8",
+    "d3-fetch": "^1.1.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idies/science-domains.git"
+  },
+  "keywords": [
+    "sciserver",
+    "d3"
+  ],
+  "author": "Bonnie Souter",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/idies/science-domains/issues"
+  },
+  "homepage": "https://github.com/idies/science-domains#readme"
+}
